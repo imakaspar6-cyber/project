@@ -1,0 +1,23 @@
+<!DOCTYPE html><html>
+<head>
+    <title>Mobiles - OLX</title>
+</head><body><h1>Mobiles</h1>
+
+<p>Buy and sell smartphones and mobile phones.</p>
+
+<hr>
+
+<h2>Available Mobiles</h2>
+
+<ul>
+    <li>iPhone 15 - ₹45,000</li>
+    <li>Samsung Galaxy - ₹25,000</li>
+    <li>OnePlus 12 - ₹35,000</li>
+</ul>
+
+<br>
+
+<a href="indexpro.html">← Back to Home</a>
+
+</body>
+</html>
